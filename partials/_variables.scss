@@ -1,0 +1,21 @@
+// colorcito
+
+$color-1: #5b305e; // Moradito
+$color-2: lighten($color-1, 20%); 
+$color-3: #cf112b; // Rosita Salmón
+$color-4: #ffffff; // Blanco
+
+// fuentes 
+
+$primary-font: 'PT Sans', sans-serif;
+
+// z-index 
+
+$content-zindex: 1;
+$layer-nav-zindex: 2;
+$nav-zindex: 3;
+$layer-content-zindex: 4;
+$trigger-zindex: 5;
+
+
+
